@@ -1,0 +1,791 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/Kahoot.NET/Kahoot.NET/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Channels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Channels.html",
+          "hash": "PfS67X5bD2tKsZM20ksETGtQQSI2mDB5rcs3iqHEFsw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Connection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Connection.html",
+          "hash": "XwYdqYSyv/R9lw+xmeryKtC4P2EufBXIRX4nJkvTbX4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.BaseClientMessage-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.BaseClientMessage-1.html",
+          "hash": "UA6VKGsABUFSku7u8s8iPUwbcQUQdiQYJxKY3jAEjgo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.BaseClientMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.BaseClientMessage.html",
+          "hash": "Z0BjkJK0p/MUDSfGk/PaUkPKfV7Tc/QOVNZOhi+a0iY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.ClientMessage-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.ClientMessage-1.html",
+          "hash": "eHUABk2X+SXg1QRs6A/Mdm8WVZNLT5mtflFiMsDG98g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.ClientMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.ClientMessage.html",
+          "hash": "KkHAjbnd/zWnm4DCFMplOoJ5jBjKQa77Mk/P65zY3QM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.Handshake.LastHs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.Handshake.LastHs.html",
+          "hash": "N6mJxGYgBdaegOO9I30FzEMyEZKvxTBvOBNrtVaD6gE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.Handshake.SecondClientHandshake.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.Handshake.SecondClientHandshake.html",
+          "hash": "9wSM4hKWZNrQ7DD7kE4b+6bVMDkVXUrIzznQQ4FGNKU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.Handshake.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.Handshake.html",
+          "hash": "SFObHandsfc35BscXrGfgoJzxDKxOWucJB/UjCFiClg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.LeaveMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.LeaveMessage.html",
+          "hash": "5Euwi3T5I2obPVHhl/uijxAbqTN96gDMPpfJ2v4/VC8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.Login.FinalLoginInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.Login.FinalLoginInformation.html",
+          "hash": "QlU9lN9x0tVqrbnZwJlzaw0fugXskUyqPvo65/9mO9k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.Login.FinalLoginMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.Login.FinalLoginMessage.html",
+          "hash": "BxSOhRb9uMqlbEAgf1drTtVDjOCi7nTl+/wHzaFsqrw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.Login.LoginInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.Login.LoginInformation.html",
+          "hash": "Y2tfZzGfA1fxjmmPC79/cl8POfyEeUeDTh5p7pmFBAs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.Login.LoginMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.Login.LoginMessage.html",
+          "hash": "MdQVKdosfBAs95DVehEx1Q0FrJFNnI78QLTdYLftSbA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.Login.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.Login.html",
+          "hash": "6BM9sjeVF66yI1Yik3bd32+zDUpwvTH3fVnoKI9uF/Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.Packet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.Packet.html",
+          "hash": "N8CzpJXpcfzjsAE55oLHiFKvFC4bcssIsNNUUtynFxc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Requests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Requests.html",
+          "hash": "t2dOV2bAAZQlabgY0qudbQGKBlNcbsxrnZFz+pLUg2c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Responses.DataErrorResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Responses.DataErrorResponse.html",
+          "hash": "e0D7q3cOe9QVcRcUmylviNqBZN2PKxIzCJNQvLtkJkg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Responses.SessionResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Responses.SessionResponse.html",
+          "hash": "pQrNBhEl9969FBkWaOGG4T3gAM+ZToDHGOXsOak3eFI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Responses.StatusResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Responses.StatusResponse.html",
+          "hash": "MU57iaeCn2b8GXiIzAzKlvyND5d6bmGV+qgoSK+2VWE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Responses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Responses.html",
+          "hash": "ckrLxVm52evGo9p1gBwmkX6blzfiWhDnlyi0jPQDV1g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Adv.Advice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Adv.Advice.html",
+          "hash": "tksiA1yOR9WEzQ/lwnox3h449xWZ9Y+iT2psfxjz9jU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Adv.BaseAdvice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Adv.BaseAdvice.html",
+          "hash": "l/cWmi8B2fkM+R2GEdpxPMUhatsI60spTeZELhkHfDw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Adv.HSAdvice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Adv.HSAdvice.html",
+          "hash": "1EL9Ah04D69aDX3F3CJuJ71TtMSnllzQrRdOwsFtXU0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Adv.TimeoutAdvice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Adv.TimeoutAdvice.html",
+          "hash": "IpAbDzl1XzG9juI4kIrI6RbbyGzsBps/Pugf7cRAJDk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Adv.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Adv.html",
+          "hash": "zxF2YPz6uLPZBLDGOZrpiQpNwx9gfcjkBMEuEO3fG0s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.ContentData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.ContentData.html",
+          "hash": "+tp0MFpSyXAyu5gtwWt3vR5iRkCBrZXl8lNJsZMrjZ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Data.html",
+          "hash": "LSrOPjeZLHAVw4PBLz0v6KpF9aLvh6KoZqPEsJ7wiyQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Device.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Device.html",
+          "hash": "6VIMoaHmy5TFAtfzPrsCbh4gOfJQjIk61NjOll1ekNc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Extra.Ext-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Extra.Ext-1.html",
+          "hash": "MLacF7a5NJrBwDl31TqtLt/2GIq1GmufltdBfAEqe60="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Extra.ExtOnlyTimesync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Extra.ExtOnlyTimesync.html",
+          "hash": "yqmziEZTwcm1pqK/a0YhL6prUxnnXJhLVMuQjznOQ+M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Extra.ExtWithTimesync-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Extra.ExtWithTimesync-1.html",
+          "hash": "ThfYzPksnNooTiREv9oIhDKrJIjN9oxt9BK0iD/4Dak="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Extra.ExtWithTimetrack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Extra.ExtWithTimetrack.html",
+          "hash": "CZPHi3D12tKtbA8yAWCmnLr+kGTZzYmoi2OvsfqRm7Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Extra.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Extra.html",
+          "hash": "ZtgWZTYZP7gX7UexTWTbRogOqs/5XEQZxwiOTeDEGCc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Message-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Message-1.html",
+          "hash": "X/pS6Yd9EKtKYWhwqAgQglOxqsLQxVoUd6phnFsJNrg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Message.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Message.html",
+          "hash": "psqPBQLr6d2v3ydfdrBSKDQ6rACgjfhaqrVMlR+UwcY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Screen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Screen.html",
+          "hash": "IK4YJ5OCv7+qVru9D4fI0eNqhNSd3DqsH1l2eq0R8D4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Time.ExtendedTimesync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Time.ExtendedTimesync.html",
+          "hash": "Yn5EiRJSshf/gscLPtAaE8z/MM/MOC6nK4ZoEboHYHM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Time.Timesync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Time.Timesync.html",
+          "hash": "wucIdZCXtX/7AEC6iWBPkK5CuhLo3E8ci+kriDJ0w4s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Time.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Time.html",
+          "hash": "ev8crrlmrAs2CfzHcCjgcKA/2TrmSLGfJnnxNpXeSmA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Types.Errors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Types.Errors.html",
+          "hash": "Awga3bKMmMwokreqhNBocBFEjAIZR6QgVGseV5eh19Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.Types.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.Types.html",
+          "hash": "S1Rtg+Eg6xgauvRHxt10YOGCDhmN4wSEV3hyJHKpY8k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.Shared.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.Shared.html",
+          "hash": "Blfd+CUH5w+p/h2ydnyvgpPnM4vmMsrpWLzi8mkwSjs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.StateObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.StateObject.html",
+          "hash": "3+dqN0VAwzxtx9huwq5nN68WlYr40iCdBXShJkC4CFQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.API.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.API.html",
+          "hash": "URVXkC+UdlAeeTdm/0IEjjoU2KyCTzNYbAlx9jAe9YM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.Client.Data.ClientErrorEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.Client.Data.ClientErrorEventArgs.html",
+          "hash": "EpugPvpDPL98LAIzyCgymFVYrczku5zxLpMZj9RC9As="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.Client.Data.Errors.JoinErrors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.Client.Data.Errors.JoinErrors.html",
+          "hash": "c7/K3HxuJv6rAPoNmpbgjC14w1GIiKDSQolTjzq+ONg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.Client.Data.Errors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.Client.Data.Errors.html",
+          "hash": "CMSP7DASI9RuBVPAfgyPVs9QjcRWxF3pvJciNpJNQ4Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.Client.Data.JoinEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.Client.Data.JoinEventArgs.html",
+          "hash": "/n/yBquPFD3H8BZ8L0O7Ob5r76CpOJrji3AW81P7KLs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.Client.Data.LeftEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.Client.Data.LeftEventArgs.html",
+          "hash": "5BJQZk9TTdhjzqfklrNFG03i/k8Ech+ozZ8F98m/CVs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.Client.Data.ReasonForLeaving.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.Client.Data.ReasonForLeaving.html",
+          "hash": "WDPFll/EQ9U8YxmFTU+8nLnWBcsCne5L5TzNHtRz8FI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.Client.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.Client.Data.html",
+          "hash": "ga2pvZXpZmYM+tq8bVoDkoawEgoNiGmgSFNLjB9hnXs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.Client.IKahootClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.Client.IKahootClient.html",
+          "hash": "2xebvOBpvfv0SHJeufyww5zogM7djS8sq7iC+Ha/Lcs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.Client.KahootClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.Client.KahootClient.html",
+          "hash": "MdkaMz0Rjx3N8cdDd6zwsw6IPFLFVDdcWjteWAf4jfg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Kahoot.NET.Client.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Kahoot.NET.Client.html",
+          "hash": "bjJWqxPPzqWrN/YTJ8YQ+kqNntejx4V+ekRqfSY4VGU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "6WFyOexxCOxVM+tjfrbNNM6tiTNkzh743JC4bp5wfTI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "wiItL5wTsY1j6mPmFi8r1oefIbSrx0eT0kXpbmim/TI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "3D5/ZU7ndbBEc9+iYpugB6sA2/UaQWvGmQYab8O7CYM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "rfYTaVFJ/8LQaWsZWnO+3pq/EvYXsrmw8biqTva260s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 55,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
